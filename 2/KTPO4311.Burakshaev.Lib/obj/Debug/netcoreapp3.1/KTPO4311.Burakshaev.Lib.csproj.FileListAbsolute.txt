@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\bin\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.deps.json
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\bin\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.dll
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\bin\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.pdb
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\obj\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\obj\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\obj\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.AssemblyInfo.cs
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\obj\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\obj\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.sourcelink.json
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\obj\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.dll
+C:\Users\burak\source\repos\KTPO4310.Burakshaev\KTPO4311.Burakshaev.Lib\obj\Debug\netcoreapp3.1\KTPO4311.Burakshaev.Lib.pdb
